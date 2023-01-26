@@ -4,4 +4,4 @@
 Wir werden Sie beraten, in Tennis Fragen
 
 ## Für euch!
-Liebe Grüße vom Tennis-club Team
+Liebe Grüße Ihr Tennis-club Team
