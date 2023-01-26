@@ -1,7 +1,7 @@
 # Tennis-club
 
-## Ziel 
-Unsere Website ist für Sie da...
+## Versprechen
+Wir werden Sie beraten, in Tennis Fragen
 
-## Autoren
-Mona und Sarah
+## Für euch!
+Liebe Grüße vom Tennis-club Team
