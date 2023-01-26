@@ -1,6 +1,6 @@
 # Tennis-club
 
-## Versprechen
+## Unser Versprechen
 Wir werden Sie beraten, in Tennis Fragen
 
 ## Für euch!
