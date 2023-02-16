@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+h1 {color: rgb(50, 153, 50);}
+
+#Tennis-Fragen {color: rgb(154, 202, 107);}
+
+#balken {
+    padding: 25px;
+    background-color: rgb(164, 219, 109);
+}
