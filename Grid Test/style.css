@@ -1,16 +1,16 @@
 h1 {color: rgb(113, 124, 113);}
 
 .grid-box {
-    width:100vw;
-    height: 100vh;
+   /*  width:100vw;
+    height: 100vh; */
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
-    grid-template-rows: 25% 25% 25% 25%;
-    grid-template-areas: 
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+     grid-template-areas: 
     "header header header sidebar "
     "content content content sidebar"
     "content content content sidebar"
-    "footer footer footer sidebar"
+    "footer footer footer sidebar" 
 }
 
 
@@ -27,9 +27,13 @@ h1 {color: rgb(113, 124, 113);}
 .box-3 {
     background-color: rgb(235, 24, 24);
     grid-area:footer;
+    display: flex;
 }
 
 .box-4 {
     background-color: rgb(243, 190, 14);
     grid-area: sidebar;
+}
+.box-3 div:first-child{
+    background-color: lightcyan;
 }
